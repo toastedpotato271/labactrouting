@@ -1,0 +1,29 @@
+.navbar-menu {
+    background-color: #ff6f3c;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    margin: 0 20px;
+    }
+    .navbar-menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+    }
+    .navbar-menu li {
+    display: inline;
+    }
+    .navbar-menu a {
+    text-decoration: none;
+    color: #f2f2f2;
+    font-size: 18px;
+    padding: 10px 15px;
+    }
+    .navbar-menu a:focus{
+        background-color: #99ff00; 
+    }
+
+
+    

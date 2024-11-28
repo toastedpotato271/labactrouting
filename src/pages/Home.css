@@ -1,0 +1,17 @@
+.Home {
+    background-color: #f0f8ff;
+    padding: 20px;
+    margin: 20px;
+    height: auto;
+    border-radius: 5px;
+    }
+    .Home h2 {
+    margin-top: 10px;
+    color: #333;
+    }
+    .Home p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555;
+    }
+    
